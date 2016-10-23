@@ -1,4 +1,4 @@
-Website: https://jaemin-han.github.io/group-lab1/.
+Website: https://jaemin-han.github.io/group-lab1/. <br>
 Team Zonkey: Jaemin Han, Jimmy De Los Angeles, Janelle Rosario, Nick Taft
 
 # Welcome Business Consultants!
